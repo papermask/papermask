@@ -1,6 +1,6 @@
 
-# Tutoriel 
-Le <a href="http://papermask.github.io/papermask/TutorielMasquePapier.pdf " target="_blank"> tutoriel </a>  décrit les étapes de la fabrication d'un masque de protection en papier. 
+# Tutoriel de Fabrication du Masque
+Cliquer sur ce <a href="http://papermask.github.io/papermask/TutorielMasquePapier.pdf " target="_blank"> lien </a> pour acceder au tutoriel.
 
 Ce masque ne se substitue pas aux consignes sanitaires préconisées par les autorités.
 
