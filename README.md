@@ -1,4 +1,3 @@
-<img src="papermask.jpg" class="img-responsive" alt=""> </div>
 # Tutoriel de Fabrication du Masque
 Cliquer sur ce lien pour accéder aux instructions: <a href="http://papermask.github.io/papermask/TutorielMasquePapier.pdf " target="_blank"> tutoriel de fabrication du masque (format pdf)</a>
 
