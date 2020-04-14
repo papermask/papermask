@@ -14,4 +14,13 @@ Pour toute demande d'information envoyer un e-mail à mypapermask@gmail.com
 
 Ce masque ne se substitue pas aux consignes sanitaires préconisées par les autorités dans la crise sanitaire du COVID-19.
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-163600919-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-163600919-1');
+</script>
 
