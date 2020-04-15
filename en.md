@@ -1,5 +1,5 @@
 # Introduction
-This face mask is made of a US letter paper sheet, a piece of cloth, and two ties. It can be done in less than 10 minutes. 
+This face mask has been designed and created by a veterinary practitionner. The mask is made of a US letter paper sheet, a piece of cloth, and two ties. It can be done in less than 10 minutes. 
 
 # Tutorial
 Click on this link to access the step-by-step instructions: <a href="http://papermask.github.io/papermask/FaceMaskTutorial.pdf " target="_blank"> Face Mask Tutorial </a>
