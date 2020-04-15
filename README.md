@@ -1,7 +1,7 @@
+<img src="mask_image.png" class="img-responsive" alt="">
+
 # Introduction
 Ce masque de protection a été conçu et réalisé par un docteur vétérinaire praticien. Ce masque est constitué d'une feuille de papier A4, d'un filtre en tissu et de deux liens. Il est réalisable en moins de 10 minutes. 
-
-<img src="mask_image.png" class="img-responsive" alt="">
 
 # Tutoriel de Fabrication du Masque
 Cliquer sur ce lien pour accéder aux instructions: <a href="http://papermask.github.io/papermask/TutorielMasquePapier.pdf " target="_blank"> tutoriel de fabrication du masque (format pdf)</a>
