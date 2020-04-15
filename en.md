@@ -8,7 +8,7 @@ Click on this link to access the step-by-step instructions: <a href="http://pape
 
 Click on this link to access the tutorial on YouTube: <a href="https://youtu.be/8fnABEBYyQk" target="_blank"> video tutorial </a>
 
-# Patrons du Masque
+# Mask Pattern
 * <a href="http://papermask.github.io/papermask/USPattern.pdf" target="_blank"> Mask pattern  (US Letter Size) </a>
 
 ## Contact/Information
